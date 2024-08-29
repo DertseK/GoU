@@ -31,7 +31,7 @@
 		"innerColor": [255,200,200],
 		"uniqueName": "Iron Pioneers",
 		"uniqueText": "Может дать Рикки кусок сала",
-		"uniques": ["[+1000]% Production while at war with @Rikki_Teiler"],
+		"uniques": ["[+1000]% Production while at war with Rikki_Teiler"],
 		"cities": ["Hattusa","Nesa","Kussara","Samuha","Tarhuntassa","Kadesh","Lusna","Alalah","Halab","Tunip","Kadesh",
 			"Zalpa","Hakpish","Nerik","Shallapsa","Arinna","Adaniya","Apasha","Waliwanda","Tapikka","Tuwanuwa",
 			"Ura","Milid","Urshu","Arwada","Sanahuitta","Dimashku","Millawanda","Gaziura","Ugarit"]
