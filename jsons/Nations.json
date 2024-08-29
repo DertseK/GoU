@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Дом Дракона",
+		"leaderName": "Ейгон Таргариен",
+		"adjective": ["таргариен"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
