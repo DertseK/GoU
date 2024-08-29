@@ -2,9 +2,9 @@
 	{
 		"name": "Дом Дракона",
 		"leaderName": "Ейгон Таргариен",
-		"adjective": ["таргариен"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"adjective": ["targarien"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
