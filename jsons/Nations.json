@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Дом Дракона",
-		"leaderName": "Ейгон Таргариен",
+		"name": "House of Dragon",
+		"leaderName": "Aegon Targarien",
 		"adjective": ["targarien"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
